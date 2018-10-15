@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+ <userdata>
+  <menu>drinks</menu>
+  <item>soda</item>
+  <price>20</price>
+ </userdata>
+</information>
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+ <userdata>
+  <menu>Veg</menu>
+  <item>potato</item>
+  <price>5</price>
+ </userdata>
+</information>
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+ <userdata>
+  <menu>Veg</menu>
+  <item>potato</item>
+  <price>5</price>
+ </userdata>
+</information>
